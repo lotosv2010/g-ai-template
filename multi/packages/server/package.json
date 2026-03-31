@@ -1,0 +1,16 @@
+{
+  "name": "@[scope]/server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "",
+    "test": "",
+    "lint": "",
+    "dev": "",
+    "clean": ""
+  },
+  "dependencies": {
+    "@[scope]/shared": "workspace:*",
+    "@[scope]/ai": "workspace:*"
+  }
+}
